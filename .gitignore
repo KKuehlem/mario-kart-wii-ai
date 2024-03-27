@@ -1,0 +1,28 @@
+# Project specific
+/build/
+/Dolphin/AI/
+/Dolphin/User/Cache/
+/Dolphin/User/Wii/
+/Dolphin/User/StateSaves/
+/nbproject/private/
+/Dolphin/MKWii.iso
+/Tests/Sockets/Socket/nbproject/private/
+/Tests/Sockets/Socket/build/
+/Tests/Sockets/Socket/dist/
+*.opendb
+/dist/
+/Data/
+
+*.build_artifacts.txt
+
+# Maven 
+target/
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nb-configuration.xml
+nbactions.xml
